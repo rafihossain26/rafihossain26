@@ -1,68 +1,24 @@
-<!-- প্রিমিয়াম ওয়েভ হেডার ব্যানার -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+<h1 align="center">Hlw Md. Samiul Hossain</h1>
+<h3 align="center">A passionate Web & Android App Developer from Bangladesh 🇧🇩</h3>
 
-<!-- অ্যানিমেটেড টাইপিং টেক্সট -->
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafihossain26&label=Profile%20views&color=0e75b6&style=flat" alt="rafihossain26" /> </p>
 
-<!-- প্রোফাইল ব্যাজ ও সোশ্যাল বাটন -->
-<div align="center">
-  <a href="https://github.io"><img src="https://shields.io" /></a>
-  <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" /></a>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafihossain26" alt="rafihossain26" /></a> </p>
 
-<br/>
+- Pashe Achi (Loan & Finance App) [Pashe Achi](https://rafihossain26.github.io/Pashe-asi/)
 
-### 🌟 Who Am I?
+- 📫 All of my projects are available **samiulislam34579@gmail.com**
 
-Hi! I'm **Md. Samiul Hossain** from **Bangladesh 🇧🇩** — a passionate **Web & Android App Developer** focused on building clean, user-friendly, and impactful digital solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/samiulislam68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/samiulislam68" height="30" width="40" /></a>
+</p>
 
-- 🔭 Currently working on **Pashe Achi** — a smart digital loan & finance platform.
-- 📱 Experienced in converting modern web applications into native **Android APKs** using automated workflows.
-- 💡 Passionate about clean UI design, automation, and continuous learning.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-```json
-{
-  "name": "Md. Samiul Hossain",
-  "username": "@rafihossain26",
-  "location": "Bangladesh 🇧🇩",
-  "focus": ["Web Development", "Android App Creation", "UI/UX Design"],
-  "currentProject": "Pashe Achi (Web + Android App)",
-  "motto": "Simple design, powerful performance."
-}
-```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafihossain26&show_icons=true&locale=en&layout=compact" alt="rafihossain26" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafihossain26&show_icons=true&locale=en" alt="rafihossain26" /></p>
 
-### 🛠️ What I Build
-
-| 🌐 Modern Web Apps | 📱 Android Applications | ⚙️ Cloud & Automation |
-| :---: | :---: | :---: |
-| Fast, responsive websites & interactive calculators | Custom Android `.apk` builds with modern branding | Automated CI/CD builds & free cloud hosting |
-| `HTML5` • `CSS3` • `JavaScript` | `Capacitor` • `Android SDK` | `GitHub Pages` • `GitHub Actions` |
-
----
-
-### 💻 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev" />
-</div>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img height="165em" src="https://vercel.app"/>
-  <img height="165em" src="https://vercel.app"/>
-</div>
-
-<!-- ফুটার ওয়েভ -->
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafihossain26&" alt="rafihossain26" /></p>
