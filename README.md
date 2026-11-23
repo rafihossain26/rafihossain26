@@ -1,83 +1,68 @@
+<!-- প্রিমিয়াম ওয়েভ হেডার ব্যানার -->
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
 
+<!-- অ্যানিমেটেড টাইপিং টেক্সট -->
 <div align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
 </div>
 
+<!-- প্রোফাইল ব্যাজ ও সোশ্যাল বাটন -->
 <div align="center">
   <a href="https://github.io"><img src="https://shields.io" /></a>
   <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="https://github.com"><img src="https://shields.io" /></a>
-  <a href="mailto:rafi@gmail.com"><img src="https://shields.io" /></a>
-  <a href="https://wa.me"><img src="https://shields.io" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://shields.io" /></a>
 </div>
 
 <br/>
 
-<p align="center">⚡ <b>JavaScript at heart. Full-stack by craft. Cross-platform by design.</b></p>
+### 🌟 Who Am I?
 
----
+Hi! I'm **Md. Samiul Hossain** from **Bangladesh 🇧🇩** — a passionate **Web & Android App Developer** focused on building clean, user-friendly, and impactful digital solutions.
 
-### 👨‍💻 About Me
+- 🔭 Currently working on **Pashe Achi** — a smart digital loan & finance platform.
+- 📱 Experienced in converting modern web applications into native **Android APKs** using automated workflows.
+- 💡 Passionate about clean UI design, automation, and continuous learning.
 
-Hey there! I'm **Md. Rafi Hossain** — a Full-Stack Software Developer from **Bangladesh 🇧🇩**.
-
-I turn ideas into useful, well-designed software for the **web, Windows, macOS, Linux, Android, and iOS**. JavaScript is my primary programming language, and my work ranges from modern web apps & loan systems to mobile tools — often all from one codebase.
-
-I care about the details that make software genuinely useful: thoughtful interfaces, practical features, maintainable code, and reliable workflows.
-
-```javascript
-const rafi = {
-  name: "Md. Rafi Hossain",
-  github: "@rafihossain26",
-  role: "Full-Stack & Cross-Platform Developer",
-  primaryLanguage: "JavaScript ❤️",
-  alsoWrite: ["TypeScript", "Python", "Dart", "HTML/CSS"],
-  stack: ["React", "Next.js", "Node.js", "Capacitor", "GitHub Actions"],
-  apps: ["Electron", "Capacitor", "Flutter", "Android APK"],
-  platforms: ["Web", "Windows", "Android", "iOS"],
-  building: ["Loan Systems", "Web Apps", "Mobile Tools", "Everyday Apps"],
-  philosophy: "Build useful things. Make them beautiful. Keep improving."
-};
+```json
+{
+  "name": "Md. Samiul Hossain",
+  "username": "@rafihossain26",
+  "location": "Bangladesh 🇧🇩",
+  "focus": ["Web Development", "Android App Creation", "UI/UX Design"],
+  "currentProject": "Pashe Achi (Web + Android App)",
+  "motto": "Simple design, powerful performance."
+}
 ```
 
 ---
 
-### 🚀 Where I Build
+### 🛠️ What I Build
 
-| 🌐 Web & Cloud | 💻 Windows | 🍎 macOS & 🐧 Linux | 📱 Android & iOS |
-| :---: | :---: | :---: | :---: |
-| Storefronts, admin panels, dashboards & APIs | Installers, portable apps & system utilities | Native-feeling desktop apps from shared code | Mobile apps & companion tools |
-| **React • Next.js • HTML/CSS** | **Electron • Node.js** | **Electron • Web** | **Flutter • Capacitor • Android** |
-
-> *One mindset, many screens: design and build around the user, not just the device.*
+| 🌐 Modern Web Apps | 📱 Android Applications | ⚙️ Cloud & Automation |
+| :---: | :---: | :---: |
+| Fast, responsive websites & interactive calculators | Custom Android `.apk` builds with modern branding | Automated CI/CD builds & free cloud hosting |
+| `HTML5` • `CSS3` • `JavaScript` | `Capacitor` • `Android SDK` | `GitHub Pages` • `GitHub Actions` |
 
 ---
 
-### 🧠 My Technology Stack
+### 💻 Tech Stack & Tools
 
 <div align="center">
-  <h4>💛 Primary Language</h4>
   <img src="https://skillicons.dev" />
-  <p><b>JavaScript</b> — my go-to language for frontend, backend, and cross-platform development.</p>
+</div>
 
-  <h4>Languages</h4>
-  <img src="https://skillicons.dev,ts,py,html,css,dart" />
+---
 
-  <h4>Frontend & Full-Stack</h4>
-  <img src="https://skillicons.dev" />
+### 📊 GitHub Activity & Stats
 
-  <h4>Desktop & Mobile</h4>
-  <img src="https://skillicons.dev" />
-  <br/>
-  <img src="https://shields.io" />
+<div align="center">
+  <img height="165em" src="https://vercel.app"/>
+  <img height="165em" src="https://vercel.app"/>
+</div>
 
-  <h4>Databases, Cloud & Tools</h4>
-  <img src="https://skillicons.dev" />
-  <br/>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+<!-- ফুটার ওয়েভ -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
 </div>
